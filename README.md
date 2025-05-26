@@ -13,5 +13,5 @@ Este repositório apresenta exemplos básicos e explicações dos seguintes prin
 
 Cada diretório inclui:
 
-- Código de exemplo em Python  
+- Código de exemplo em PHP  
 - Explicação simples e objetiva sobre o princípio aplicado
